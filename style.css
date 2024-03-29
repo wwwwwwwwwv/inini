@@ -22,7 +22,6 @@ header .logo {
 header img {
   width: 100px;
   height: 30px;
-  flex-shrink: 0;
 }
 header p {
   font-size: 12px;
